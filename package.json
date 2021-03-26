@@ -1,0 +1,21 @@
+{
+  "name": "babel",
+  "version": "1.0.0",
+  "description": "my babel project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel js -d dist"
+  },
+  "author": "Ekta Dudhatra <dudh0004@algonquinlive.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.12"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "regenerator-runtime": "^0.13.7"
+  }
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(150, 127, 69);
+}
+
+header{
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(88, 8, 8);
+}
+
+div{
+    font-size: 1.5rem;
+    color: darkolivegreen;
+}
+
+img{
+    width: 50%;
+}
